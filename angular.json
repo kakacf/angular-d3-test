@@ -28,6 +28,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.scss"
             ],
             "scripts": []
@@ -123,6 +124,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-d3-test"
+    }
+  },
+  "defaultProject": "angular-d3-test",
+  "cli": {
+    "analytics": "cc71acf8-59c5-41e1-b7cc-b369625c370b"
+  }
 }
